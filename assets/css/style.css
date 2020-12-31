@@ -234,8 +234,8 @@ padding:0px;
 
 /* FOR CHANGING COLOR OF ACTIVE CATEGORY */
 .caegories a.active {
-    background-color: #FF2276;
-    border: 2px solid #FF2276;
+    background-color: #287093;
+    border: 2px solid #287093;
 }
 
 /* FOR TRANSITION BEAUTIFULLY */
@@ -246,14 +246,14 @@ padding:0px;
 }
 
 #works .work-wrapper {
-    border: 2px solid #FF2276;
+    border: 2px solid #287093;
     padding: 2px;
-    margin: 5px 5px 10px 5px;
+    margin: 5px 5px px 5px;
 }
 
 #works img {
-    filter: gray; /* FOR IE6-9 */
-    -webkit-filter: grayscale(1); /* FOR Google Chrome, Safari 6+ and  Opera 15+ */
+    /*filter: gray; /* FOR IE6-9 */
+    /*-webkit-filter: grayscale(1); /* FOR Google Chrome, Safari 6+ and  Opera 15+ */
     opacity: 0.8;
 }
 
