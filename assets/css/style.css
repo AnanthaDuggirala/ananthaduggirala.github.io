@@ -124,7 +124,7 @@ padding:0px;
  ============================================================ */
 
 #header {
-    background: url(../img/1.png) no-repeat center center;
+    background: url(../img/me.png) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -177,7 +177,7 @@ padding:0px;
  ============================================================ */
 
 #clients {
-    background: url(../img/1.png) no-repeat center center;
+    background: url(../img/me.png) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -266,7 +266,7 @@ padding:0px;
   TESTIMONIAL SECTION STYLES
  ============================================================ */
 #testimonial {
-    background: url(../img/1.png) no-repeat center center;
+    background: url(../img/me.png) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
@@ -305,7 +305,7 @@ padding:0px;
   CONTACT SECTION STYLES
  ============================================================ */
 #contact {
-    background: url(../img/1.png) no-repeat center center;
+    background: url(../img/me.png) no-repeat center center;
     padding: 0;
     -webkit-background-size: cover;
     background-size: cover;
